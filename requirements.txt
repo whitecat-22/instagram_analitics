@@ -1,5 +1,5 @@
 Django==3.2.25
 django-widget-tweaks==1.4.8
-requests==2.31.0
+requests==2.32.0
 django-environ==0.4.5
 pandas==1.1.4
